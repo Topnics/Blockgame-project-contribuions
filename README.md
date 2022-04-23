@@ -1,4 +1,4 @@
-# Blockgame-project-contribuions
+# Blockgame-project-contributions
 
 Project 1 (Nestcoin filmhouse project)
   1. https://github.com/Team-Nebula-blockgames/base-project/pull/3/commits/8e08938230f3d8eb506d99444b9e88e052c28ece
