@@ -13,9 +13,9 @@ Project 2 (UpBox a decentralised file sharing system)
   2. https://github.com/Team-Nebula-blockgames/Project-2/commit/e7d37b827028c4b7cebfede4bb9719cb3e036d71
         I renamed the contact from nebula to upbox.
         
-Project 3 
+Project 3 (A Voting Dapp)
   1. https://github.com/Team-K-blockgames/Project-3/commits?author=Topnics&since=2022-03-31&until=2022-04-22
   2. https://github.com/Team-K-blockgames/Project-3/commit/37f555762eb9c7f1513f2253be6c6891f99845d6
-        I wrote the accessControl Contract. This contract assigns roles (Chairman, Board of directors, Teachers and students) to particular address.
+        I wrote the accessControl Contract. This contract assigns roles (Chairman, Board of directors, Teachers and students) to specified address.
         
         
